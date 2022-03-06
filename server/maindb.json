@@ -1,0 +1,41 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "969e59b6974c8b8c622da4a035326ae9",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-03-06T11:44:05.969Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
+      },
+      {
+        "time": "2022-03-06T11:44:28.048Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
+      },
+      {
+        "time": "2022-03-06T12:51:32.775Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\app\\factory\\apktool.jar\" b \"F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\app\\factory\\decompiled\" -o \"F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\assets\\webpublic\\build.apk\"\nS: WARNING: Could not write to (C:\\Users\\R Sesagopal\\AppData\\Local\\apktool\\framework), using C:\\Users\\RSESAG~1\\AppData\\Local\\Temp\\ instead...\r\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\r\njava.io.FileNotFoundException: F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\app\\factory\\decompiled\\build\\apk\\classes.dex (Operation did not complete successfully because the file contains a virus or potentially unwanted software)\r\n"
+      },
+      {
+        "time": "2022-03-06T12:53:04.220Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\app\\factory\\apktool.jar\" b \"F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\app\\factory\\decompiled\" -o \"F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\assets\\webpublic\\build.apk\"\njava.io.FileNotFoundException: F:\\Android projects\\remote access\\Android\\XploitSPY\\server\\app\\factory\\decompiled\\build\\apk\\classes.dex (Operation did not complete successfully because the file contains a virus or potentially unwanted software)\r\n"
+      },
+      {
+        "time": "2022-03-06T12:56:00.122Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
